@@ -1,0 +1,43 @@
+<section class="about_section text-center py-5 "id="about_section">
+      <div class="container">
+        <div class="row">
+        <div class="col-md-12">
+          <h3>About this website</h3>
+          <p>
+            "By placing intelligence at the edges rather than control 
+            in the middle of the network,
+            the Internet has created a platform for innovation." - Vinton Cerf1
+          </p>
+          <button class="btn btn-success btn-lg">Contact Us</button>
+          
+        </div>
+      </div>
+      </div>
+      
+    </section>
+
+
+
+
+    
+
+    .sidebar .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+.openbtn {
+  font-size: 20px;
+  cursor: pointer;
+  background-color: #111;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+}
+
+.openbtn:hover {
+  background-color: #444;
+}
